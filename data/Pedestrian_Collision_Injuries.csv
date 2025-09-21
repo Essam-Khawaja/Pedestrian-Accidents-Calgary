@@ -1,0 +1,76 @@
+"Admission Type","Year","Pedestrian Injury Type","Count"
+"Emergency Department Visit","2013","Pedestrian injured in collision with car, pick-up truck or van","582"
+"Emergency Department Visit","2014","Pedestrian injured in collision with car, pick-up truck or van","555"
+"Emergency Department Visit","2015","Pedestrian injured in collision with car, pick-up truck or van","555"
+"Emergency Department Visit","2016","Pedestrian injured in collision with car, pick-up truck or van","545"
+"Emergency Department Visit","2017","Pedestrian injured in collision with car, pick-up truck or van","488"
+"Emergency Department Visit","2013","Pedestrian injured in collision with heavy transport vehicle or bus","24"
+"Emergency Department Visit","2014","Pedestrian injured in collision with heavy transport vehicle or bus","12"
+"Emergency Department Visit","2015","Pedestrian injured in collision with heavy transport vehicle or bus","23"
+"Emergency Department Visit","2016","Pedestrian injured in collision with heavy transport vehicle or bus","12"
+"Emergency Department Visit","2017","Pedestrian injured in collision with heavy transport vehicle or bus","19"
+"Emergency Department Visit","2013","Pedestrian injured in collision with other nonmotor vehicle","11"
+"Emergency Department Visit","2014","Pedestrian injured in collision with other nonmotor vehicle","14"
+"Emergency Department Visit","2015","Pedestrian injured in collision with other nonmotor vehicle","20"
+"Emergency Department Visit","2016","Pedestrian injured in collision with other nonmotor vehicle","14"
+"Emergency Department Visit","2017","Pedestrian injured in collision with other nonmotor vehicle","12"
+"Emergency Department Visit","2013","Pedestrian injured in collision with pedal cycle","28"
+"Emergency Department Visit","2014","Pedestrian injured in collision with pedal cycle","28"
+"Emergency Department Visit","2015","Pedestrian injured in collision with pedal cycle","44"
+"Emergency Department Visit","2016","Pedestrian injured in collision with pedal cycle","25"
+"Emergency Department Visit","2017","Pedestrian injured in collision with pedal cycle","30"
+"Emergency Department Visit","2013","Pedestrian injured in collision with railway train or railway vehicle","5"
+"Emergency Department Visit","2014","Pedestrian injured in collision with railway train or railway vehicle","12"
+"Emergency Department Visit","2015","Pedestrian injured in collision with railway train or railway vehicle",
+"Emergency Department Visit","2016","Pedestrian injured in collision with railway train or railway vehicle","8"
+"Emergency Department Visit","2017","Pedestrian injured in collision with railway train or railway vehicle",
+"Emergency Department Visit","2013","Pedestrian injured in collision with two- or three-wheeled motor vehicle","7"
+"Emergency Department Visit","2014","Pedestrian injured in collision with two- or three-wheeled motor vehicle",
+"Emergency Department Visit","2015","Pedestrian injured in collision with two- or three-wheeled motor vehicle","6"
+"Emergency Department Visit","2016","Pedestrian injured in collision with two- or three-wheeled motor vehicle","8"
+"Emergency Department Visit","2017","Pedestrian injured in collision with two- or three-wheeled motor vehicle","10"
+"Emergency Department Visit","2013","Pedestrian injured in other and unspecified transport accidents","61"
+"Emergency Department Visit","2014","Pedestrian injured in other and unspecified transport accidents","69"
+"Emergency Department Visit","2015","Pedestrian injured in other and unspecified transport accidents","56"
+"Emergency Department Visit","2016","Pedestrian injured in other and unspecified transport accidents","54"
+"Emergency Department Visit","2017","Pedestrian injured in other and unspecified transport accidents","66"
+"Hospital Admission","2013","Pedestrian injured in collision with car, pick-up truck or van","116"
+"Hospital Admission","2014","Pedestrian injured in collision with car, pick-up truck or van","108"
+"Hospital Admission","2015","Pedestrian injured in collision with car, pick-up truck or van","113"
+"Hospital Admission","2016","Pedestrian injured in collision with car, pick-up truck or van","107"
+"Hospital Admission","2017","Pedestrian injured in collision with car, pick-up truck or van","100"
+"Hospital Admission","2013","Pedestrian injured in collision with heavy transport vehicle or bus",
+"Hospital Admission","2014","Pedestrian injured in collision with heavy transport vehicle or bus",
+"Hospital Admission","2015","Pedestrian injured in collision with heavy transport vehicle or bus","5"
+"Hospital Admission","2016","Pedestrian injured in collision with heavy transport vehicle or bus",
+"Hospital Admission","2017","Pedestrian injured in collision with heavy transport vehicle or bus",
+"Hospital Admission","2013","Pedestrian injured in collision with other nonmotor vehicle",
+"Hospital Admission","2014","Pedestrian injured in collision with other nonmotor vehicle",
+"Hospital Admission","2016","Pedestrian injured in collision with other nonmotor vehicle",
+"Hospital Admission","2014","Pedestrian injured in collision with pedal cycle",
+"Hospital Admission","2015","Pedestrian injured in collision with pedal cycle",
+"Hospital Admission","2016","Pedestrian injured in collision with pedal cycle",
+"Hospital Admission","2013","Pedestrian injured in collision with railway train or railway vehicle","5"
+"Hospital Admission","2014","Pedestrian injured in collision with railway train or railway vehicle",
+"Hospital Admission","2016","Pedestrian injured in collision with railway train or railway vehicle",
+"Hospital Admission","2014","Pedestrian injured in collision with two- or three-wheeled motor vehicle",
+"Hospital Admission","2015","Pedestrian injured in collision with two- or three-wheeled motor vehicle",
+"Hospital Admission","2013","Pedestrian injured in other and unspecified transport accidents","7"
+"Hospital Admission","2014","Pedestrian injured in other and unspecified transport accidents",
+"Hospital Admission","2015","Pedestrian injured in other and unspecified transport accidents","6"
+"Hospital Admission","2016","Pedestrian injured in other and unspecified transport accidents","7"
+"Hospital Admission","2017","Pedestrian injured in other and unspecified transport accidents","7"
+"Emergency Department Visit","2018","Pedestrian injured in collision with pedal cycle","34"
+"Emergency Department Visit","2018","Pedestrian injured in collision with two- or three-wheeled motor vehicle","6"
+"Emergency Department Visit","2018","Pedestrian injured in collision with car, pick-up truck or van","514"
+"Emergency Department Visit","2018","Pedestrian injured in collision with heavy transport vehicle or bus","18"
+"Emergency Department Visit","2018","Pedestrian injured in collision with railway train or railway vehicle","8"
+"Emergency Department Visit","2018","Pedestrian injured in collision with other nonmotor vehicle","10"
+"Emergency Department Visit","2018","Pedestrian injured in other and unspecified transport accidents","48"
+"Hospital Admission","2018","Pedestrian injured in collision with pedal cycle","4"
+"Hospital Admission","2018","Pedestrian injured in collision with two- or three-wheeled motor vehicle","1"
+"Hospital Admission","2018","Pedestrian injured in collision with car, pick-up truck or van","111"
+"Hospital Admission","2018","Pedestrian injured in collision with heavy transport vehicle or bus","5"
+"Hospital Admission","2018","Pedestrian injured in collision with railway train or railway vehicle","2"
+"Hospital Admission","2018","Pedestrian injured in collision with other nonmotor vehicle","1"
+"Hospital Admission","2018","Pedestrian injured in other and unspecified transport accidents","7"
